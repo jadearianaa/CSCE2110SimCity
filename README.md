@@ -35,3 +35,6 @@ The program will request the configuration filename, then will be able to access
 It will output the initial region layout.
 
 There should also be a time step, available goods, and avaiable workers message shown.
+
+
+My job was to completethe residential area. I keep track of the growth of the residents in the city and whether they are living in an apartment or house.
